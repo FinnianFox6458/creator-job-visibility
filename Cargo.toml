@@ -1,0 +1,8 @@
+[package]
+name = "creator-job-visibility"
+version = "0.1.0"
+edition = "2021"
+description = "Observe creator asset-processing failures with a queue and captured errors."
+license = "MIT"
+
+[dependencies]
